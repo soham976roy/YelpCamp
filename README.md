@@ -28,5 +28,7 @@ The all campground page will be like this :
 You can not add a new campground without logging in, even if you try, you will be redirected to the login page, even if anybody tries to send post request for new campground from Postman  etc. they will be redirected to Login page :
 
 
-![Screenshot (1058)](https://user-images.githubusercontent.com/83572390/177762013-b98e31de-bc3b-46b3-883c-96e0ca526bf4.png)
+<!-- ![Screenshot (1058)](https://user-images.githubusercontent.com/83572390/177762013-b98e31de-bc3b-46b3-883c-96e0ca526bf4.png) -->
+
+  <img src="https://user-images.githubusercontent.com/83572390/177762013-b98e31de-bc3b-46b3-883c-96e0ca526bf4.png" width="48%"><img src="https://user-images.githubusercontent.com/83572390/177818147-2a024c03-19e2-47f8-8266-4d98b7dadb94.png" width="48%">
 
