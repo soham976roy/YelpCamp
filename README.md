@@ -5,7 +5,7 @@ It is an Express-based Web Application for a fictional startup that allows a use
 
 <h2>Installation Guide</h2>
 
-Install all the source code files.After that open terminal in the root directory. Type <b>npm install</b> (make sure you have Node.js installed in your system before running this).After that install nodemon if you previously don't have installed by typing <b>npm i nodemon -g</b>.
+Install all the source code files. After that open terminal in the root directory. Type <b>npm install</b> (make sure you have Node.js installed in your system before running this).After that install nodemon if you previously don't have installed by typing <b>npm i nodemon -g</b>.
 
 Make a new file named '.env' and make sure you have CLOUDINARY_CLOUD_NAME, CLOUDINARY_KEY, CLOUDINARY_SECRET, and MAPBOX_TOKEN declared (you will get these data after registering in Clodinary and Mapbox(both are free)).
 
