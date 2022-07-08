@@ -19,16 +19,22 @@ The home page will be like this :
 
 ![Screenshot (1056)](https://user-images.githubusercontent.com/83572390/177760617-65489820-3c8f-43c9-87a8-196a7e268ad5.png)
 
+
 Here you are not Logged In, hence Login and Register both the buttons are there in the top-right corner.But you can view all campgrounds without logging in too.
 
 The all campground page will be like this :
 
+
 ![Screenshot (1057)](https://user-images.githubusercontent.com/83572390/177761467-9fe2baba-9494-41d8-a5f0-0c434cf7a173.png)
+
 
 You can not add a new campground without logging in, even if you try, you will be redirected to the login page, even if anybody tries to send post request for new campground from Postman  etc. they will be redirected to Login page :
 
 
-<!-- ![Screenshot (1058)](https://user-images.githubusercontent.com/83572390/177762013-b98e31de-bc3b-46b3-883c-96e0ca526bf4.png) -->
+  <img src="https://user-images.githubusercontent.com/83572390/177762013-b98e31de-bc3b-46b3-883c-96e0ca526bf4.png" width="50%"><img src="https://user-images.githubusercontent.com/83572390/177818147-2a024c03-19e2-47f8-8266-4d98b7dadb94.png" width="50%">
+  
+  
+Adding a new campground will look like this:
 
-  <img src="https://user-images.githubusercontent.com/83572390/177762013-b98e31de-bc3b-46b3-883c-96e0ca526bf4.png" width="48%"><img src="https://user-images.githubusercontent.com/83572390/177818147-2a024c03-19e2-47f8-8266-4d98b7dadb94.png" width="48%">
+<img src="https://user-images.githubusercontent.com/83572390/177927000-500fcfd2-23e7-445c-b3cd-6d0bc00d6462.png" width="50%"><img src="https://user-images.githubusercontent.com/83572390/177927257-c58c3fc5-679c-49cd-b46c-a1ff7241f959.png" width="50%">
 
