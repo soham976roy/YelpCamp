@@ -43,4 +43,8 @@ Adding a review in any existing campground will look like this :
 
 <img src="https://user-images.githubusercontent.com/83572390/177927783-ca495df3-308b-4d91-92f3-c93cfce9a700.png" width="50%"><img src="https://user-images.githubusercontent.com/83572390/177928237-3c3ef35f-4b13-4a42-880d-3e8e91431597.png" width="50%">
 
+You will not be able to see edit and delete button in the campground if you are not the owner of the campground. Same is for delete button in reviews too.
+
+
+Thank you for visiting my project.If there is any issue, feel free to contact me @ <b>sohamroy976@gmail.com</b>
 
