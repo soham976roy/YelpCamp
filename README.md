@@ -34,7 +34,13 @@ You can not add a new campground without logging in, even if you try, you will b
   <img src="https://user-images.githubusercontent.com/83572390/177762013-b98e31de-bc3b-46b3-883c-96e0ca526bf4.png" width="50%"><img src="https://user-images.githubusercontent.com/83572390/177818147-2a024c03-19e2-47f8-8266-4d98b7dadb94.png" width="50%">
   
   
-Adding a new campground will look like this:
+Adding a new campground will look like this :
 
 <img src="https://user-images.githubusercontent.com/83572390/177927000-500fcfd2-23e7-445c-b3cd-6d0bc00d6462.png" width="50%"><img src="https://user-images.githubusercontent.com/83572390/177927257-c58c3fc5-679c-49cd-b46c-a1ff7241f959.png" width="50%">
+
+
+Adding a review in any existing campground will look like this :
+
+<img src="https://user-images.githubusercontent.com/83572390/177927783-ca495df3-308b-4d91-92f3-c93cfce9a700.png" width="50%"><img src="https://user-images.githubusercontent.com/83572390/177928237-3c3ef35f-4b13-4a42-880d-3e8e91431597.png" width="50%">
+
 
